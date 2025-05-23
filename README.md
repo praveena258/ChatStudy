@@ -75,7 +75,8 @@ Client-server chat applications are foundational to real-time communication over
 
 ## PROGRAM
 client.py
-'''
+
+```
 import socket
 from datetime import datetime
 s=socket.socket()
@@ -89,7 +90,7 @@ ack=c.recv(1024).decode()
 if ack:
  print(ack)
 c.close()
-'''
+```
 server.py
 ```
 import socket
