@@ -104,6 +104,7 @@ s.send("acknowledgement recived from the server".encode())
 server.py
 ![image](https://github.com/user-attachments/assets/d97cfd50-02ca-4d3a-b78a-498c436ee103)
 client.py
+![image](https://github.com/user-attachments/assets/11e45e1b-63d6-43c6-a98e-3585df5e0c4b)
 
 
 
